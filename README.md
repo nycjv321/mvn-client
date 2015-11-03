@@ -1,6 +1,6 @@
 # Mvn::Client
 
-Wrapper for system mvn (mvn must be in path for this to work). 
+Wrapper for system mvn.
 
 
 ## Installation
